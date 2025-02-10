@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using npm start within a Dockerfile. The bug arises from an improperly configured start script in the package.json file, leading to execution failures within the container environment.  The solution provides a corrected Dockerfile and package.json to resolve the issue.
